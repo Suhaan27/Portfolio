@@ -80,3 +80,9 @@ nav, h1, h2, p {
     text-align: center; 
 }
 
+#mainImg img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
