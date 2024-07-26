@@ -73,4 +73,7 @@ nav, h1, h2, p {
     object-fit: cover;
 }
 
+#mainImg {
+    width: 1000px; 
+}
 
