@@ -74,7 +74,7 @@ nav, h1, h2, p {
 }
 
 #mainImg img{
-    width: 1500px;
+    width: 100px;
     object-fit: cover;
 }
 
