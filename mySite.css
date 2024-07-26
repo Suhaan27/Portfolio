@@ -73,7 +73,10 @@ nav, h1, h2, p {
     object-fit: cover;
 }
 
-#mainImg {
+#mainImg img{
     width: 1500px;
     object-fit: cover;
 }
+
+#mainImg {
+    justify-content: center; 
