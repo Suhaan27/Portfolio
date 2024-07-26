@@ -75,5 +75,7 @@ nav, h1, h2, p {
 
 #mainImg {
     width: 1000px; 
+    display: flex; 
+    justify-content: center; 
 }
 
