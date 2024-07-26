@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    display:flex;
+    justify-content: center; 
+    padding: 15px;
+    background: rgb(230, 230, 230);
+}
+
+nav div {
+    padding-right: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#page {
+    color: rgba(255, 157, 0, 0.89); 
+    text-decoration: underline;
+}   
+
+nav, h1, h2, p, li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainText {
+    display: flex;
+    justify-content: center;
+}
+
+#mainText li {
+    padding: 10px;  
+}
+
+img {
+    height: 400px;
+    object-fit: cover;
+}
+
+#row1 {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-evenly;
+}
+
+#row2 {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-evenly;
+}
+nav div:hover {
+    text-decoration: underline; 
+}

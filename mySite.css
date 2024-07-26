@@ -1,0 +1,79 @@
+/* Nav Bar */
+
+body {
+    margin: 0px;
+}
+
+nav {
+    display:flex;
+    justify-content: center; 
+    padding: 15px;
+    background: rgb(230, 230, 230);
+}
+
+nav div {
+    padding-right: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+nav div:hover {
+    text-decoration: underline; 
+}
+
+a {
+    text-decoration: none;
+}
+
+#page {
+    color: rgba(255, 157, 0, 0.89); 
+    text-decoration: underline;
+}   
+
+nav, h1, h2, p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Nav Bar */
+
+.aboutMe {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    align-items: center;
+    padding-bottom: 0px;
+}
+
+#name {
+    font-size: 80px;
+    padding-left: 10px;
+}
+
+.aboutMeSection {
+    margin-top: 0px;
+    padding-top: 0px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutMe ,.aboutMeSection {
+    background: rgb(230, 230, 230);
+}
+
+.images img{
+    width: 500px;
+    object-fit: cover;
+}
+
+.images {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    object-fit: cover;
+}
+
+#mainImg {
+    width: 1500px;
+    object-fit: cover;
+}
