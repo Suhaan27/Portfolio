@@ -73,13 +73,4 @@ nav, h1, h2, p {
     object-fit: cover;
 }
 
-#mainImg img {
-    width: 900px;
-    object-fit: cover; 
-}
 
-#mainImg {
-    display: flex;
-    justify-content: center; 
-    width: 1500px; 
-}
