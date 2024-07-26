@@ -77,7 +77,12 @@ nav, h1, h2, p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%; 
+    padding: 0px; 
+}
+
+#mainImg img{
+    padding: 0px; 
+    margin: 0px; 
 }
 
 
