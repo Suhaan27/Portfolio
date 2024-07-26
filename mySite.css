@@ -76,5 +76,6 @@ nav, h1, h2, p {
 #mainImg {
     display: flex; 
     justify-content: center; 
+    text-align: center; 
 }
 
