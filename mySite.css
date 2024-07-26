@@ -80,12 +80,10 @@ nav, h1, h2, p {
     padding: 0px; 
 } */
 
-#mainImg img{
-    display: flex;
-    justify-content: space-around; 
-    padding: 0px; 
-    margin: 0px; 
-    
+#mainImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
